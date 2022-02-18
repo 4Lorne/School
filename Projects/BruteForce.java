@@ -1,5 +1,5 @@
 
-//https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/LinkedHashSet.html
+// https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/LinkedHashSet.html
 import java.util.LinkedHashSet;
 
 public class BruteForce {

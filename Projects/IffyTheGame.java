@@ -215,7 +215,7 @@ public class IffyTheGame {
 			System.out.print("You have died.");
 			System.exit(0);
 		}
-		// Getters and setters
+		//Getters and setters
 
 		public int getEnergy() {
 			return energy;
